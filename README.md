@@ -16,5 +16,5 @@ docker run -d \
 
 # API
 
-- [GET] http://localhost:10000/surge2ss?url=\<URL\>
+- [GET] `http://localhost:10000/surge2ss?url=<URL>`
     - url: your Surge subscription url
