@@ -16,6 +16,6 @@ jobs:
         env:
           USERNAME: ${{ secrets.DOCKER_USERNAME }}
           PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
-          IMAGE_NAME: "xavierniu/sjdiefhu"
+          IMAGE_NAME: "xavierniu/subcon"
           TAG_NAME: "amd64"
           LATEST: "true"
