@@ -16,5 +16,7 @@ docker run -d \
 
 ## APIs
 
+You can visit our demo at `https://subcon.nxw.name` to test it, we promise: your profile is SAFE and will not be ACCESSED, at the mean time, please DO NOT ABUSE.
+
 - [GET] `http://localhost:10000/surge2ss?url=<URL>`
     - url: your Surge subscription url
